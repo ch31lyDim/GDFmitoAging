@@ -1,0 +1,141 @@
+ENTRY       cfa00240                    Pathway
+NAME        Pyrimidine metabolism - Canis lupus familiaris (dog)
+CLASS       Metabolism; Nucleotide metabolism
+PATHWAY_MAP cfa00240  Pyrimidine metabolism
+MODULE      cfa_M00046  Pyrimidine degradation, uracil => beta-alanine, thymine => 3-aminoisobutanoate [PATH:cfa00240]
+            cfa_M00051  De novo pyrimidine biosynthesis, glutamine (+ PRPP) => UMP [PATH:cfa00240]
+            cfa_M00052  Pyrimidine ribonucleotide biosynthesis, UMP => UDP/UTP,CDP/CTP [PATH:cfa00240]
+            cfa_M00053  Deoxyribonucleotide biosynthesis, ADP/GDP/CDP/UDP => dATP/dGTP/dCTP/dUTP [PATH:cfa00240]
+            cfa_M00938  Pyrimidine deoxyribonucleotide biosynthesis, UDP => dTTP [PATH:cfa00240]
+DBLINKS     GO: 0006220 0006213
+ORGANISM    Canis lupus familiaris (dog) [GN:cfa]
+GENE        100686107  NME7; nucleoside diphosphate kinase 7 [KO:K00940] [EC:2.7.4.6]
+            100687720  CTPS1; CTP synthase 1 [KO:K01937] [EC:6.3.4.2]
+            100688937  ENTPD8; ectonucleoside triphosphate diphosphohydrolase 8 isoform X1 [KO:K01510] [EC:3.6.1.5]
+            100855947  TK1; thymidine kinase, cytosolic isoform X2 [KO:K00857] [EC:2.7.1.21]
+            100856067  DPYS; dihydropyrimidinase isoform X2 [KO:K01464] [EC:3.5.2.2]
+            100856150  ENPP1; ectonucleotide pyrophosphatase/phosphodiesterase family member 1 [KO:K01513] [EC:3.1.4.1 3.6.1.9]
+            100856179  NT5C1B; cytosolic 5'-nucleotidase 1B isoform X3 [KO:K01081] [EC:3.1.3.5]
+            100856596  NME3; nucleoside diphosphate kinase 3 [KO:K00940] [EC:2.7.4.6]
+            102154109  [KO:K00940] [EC:2.7.4.6]
+            102155863  [KO:K00940] [EC:2.7.4.6]
+            102156116  [KO:K00940] [EC:2.7.4.6]
+            106559724  [KO:K01081] [EC:3.1.3.5]
+            119865989  DTYMK; thymidylate kinase [KO:K00943] [EC:2.7.4.9]
+            474746  NUDT2; bis(5'-nucleosyl)-tetraphosphatase [asymmetrical] [KO:K01518] [EC:3.6.1.17]
+            474820  ENPP3; ectonucleotide pyrophosphatase/phosphodiesterase family member 3 isoform X2 [KO:K01513] [EC:3.1.4.1 3.6.1.9]
+            474984  NT5E; 5'-nucleotidase [KO:K19970] [EC:3.1.3.5]
+            475022  AK9; adenylate kinase 9 isoform X15 [KO:K18533] [EC:2.7.4.3 2.7.4.6]
+            475277  NT5C3A; cytosolic 5'-nucleotidase 3A isoform X2 [KO:K24242]
+            476281  HDDC2; 5'-deoxynucleotidase HDDC2 [KO:K07023] [EC:3.1.3.89]
+            476638  NME6; nucleoside diphosphate kinase 6 [KO:K00940] [EC:2.7.4.6]
+            476823  RRM1; ribonucleoside-diphosphate reductase large subunit isoform X2 [KO:K10807] [EC:1.17.4.1]
+            477809  NT5C2; cytosolic purine 5'-nucleotidase isoform X1 [KO:K01081] [EC:3.1.3.5]
+            478593  UMPS; uridine 5'-monophosphate synthase [KO:K13421] [EC:2.4.2.10 4.1.1.23]
+            479935  DPYD; dihydropyrimidine dehydrogenase [NADP(+)] isoform X2 [KO:K00207] [EC:1.3.1.2]
+            480384  ENTPD5; ectonucleoside triphosphate diphosphohydrolase 5 isoform X1 [KO:K01511] [EC:3.6.1.6]
+            480558  NME1; nucleoside diphosphate kinase A [KO:K00940] [EC:2.7.4.6]
+            480559  NME2; nucleoside diphosphate kinase B [KO:K00940] [EC:2.7.4.6]
+            480772  UPP1; uridine phosphorylase 1 isoform X3 [KO:K00757] [EC:2.4.2.3]
+            480851  CTPS2; CTP synthase 2 isoform X1 [KO:K01937] [EC:6.3.4.2]
+            481988  RRM2B; ribonucleoside-diphosphate reductase subunit M2 B isoform X4 [KO:K10808] [EC:1.17.4.1]
+            482188  DCK; deoxycytidine kinase [KO:K00893] [EC:2.7.1.74 2.7.1.76 2.7.1.113]
+            482463  NT5C1A; cytosolic 5'-nucleotidase 1A [KO:K01081] [EC:3.1.3.5]
+            482963  RRM2; ribonucleoside-diphosphate reductase subunit M2 [KO:K10808] [EC:1.17.4.1]
+            483009  CAD; CAD protein isoform X1 [KO:K11540] [EC:6.3.5.5 2.1.3.2 3.5.2.3]
+            483309  NT5C; 5'(3')-deoxyribonucleotidase, cytosolic type [KO:K01081] [EC:3.1.3.5]
+            483943  [KO:K00940] [EC:2.7.4.6]
+            485564  ENTPD6; ectonucleoside triphosphate diphosphohydrolase 6 isoform X1 [KO:K01511] [EC:3.6.1.6]
+            485604  ENTPD3; ectonucleoside triphosphate diphosphohydrolase 3 [KO:K01510] [EC:3.6.1.5]
+            486117  ENTPD4; ectonucleoside triphosphate diphosphohydrolase 4 isoform X1 [KO:K12305] [EC:3.6.1.6]
+            486398  UPB1; beta-ureidopropionase isoform X2 [KO:K01431] [EC:3.5.1.6]
+            486810  ENTPD1; ectonucleoside triphosphate diphosphohydrolase 1 isoform X1 [KO:K01510] [EC:3.6.1.5]
+            487393  CDA; cytidine deaminase [KO:K01489] [EC:3.5.4.5]
+            489903  DCTPP1; dCTP pyrophosphatase 1 isoform X2 [KO:K16904] [EC:3.6.1.12]
+            490974  NT5C3B; 7-methylguanosine phosphate-specific 5'-nucleotidase [KO:K24242]
+            607328  DCTD; deoxycytidylate deaminase isoform X1 [KO:K01493] [EC:3.5.4.12]
+            607417  TYMS; thymidylate synthase [KO:K00560] [EC:2.1.1.45]
+            608503  UCK1; uridine-cytidine kinase 1 isoform X1 [KO:K00876] [EC:2.7.1.48]
+            608979  UCK2; uridine-cytidine kinase 2 [KO:K00876] [EC:2.7.1.48]
+            608996  CMPK2; LOW QUALITY PROTEIN: UMP-CMP kinase 2, mitochondrial [KO:K13809] [EC:2.7.4.14]
+            609318  ASMTL; probable bifunctional dTTP/UTP pyrophosphatase/methyltransferase protein isoform X1 [KO:K25435]
+            609526  DUT; deoxyuridine 5'-triphosphate nucleotidohydrolase, mitochondrial [KO:K01520] [EC:3.6.1.23]
+            609545  NT5M; 5'(3')-deoxyribonucleotidase, mitochondrial isoform X1 [KO:K01081] [EC:3.1.3.5]
+            610291  CMPK1; UMP-CMP kinase isoform X1 [KO:K13800] [EC:2.7.4.14]
+            610755  DHODH; dihydroorotate dehydrogenase (quinone), mitochondrial isoform X3 [KO:K00254] [EC:1.3.5.2]
+            611387  TK2; thymidine kinase 2, mitochondrial isoform X1 [KO:K00857] [EC:2.7.1.21]
+            611514  NME4; nucleoside diphosphate kinase, mitochondrial isoform X2 [KO:K00940] [EC:2.7.4.6]
+            612562  UCKL1; uridine-cytidine kinase-like 1 isoform X6 [KO:K00876] [EC:2.7.1.48]
+COMPOUND    C00015  UDP
+            C00039  DNA
+            C00046  RNA
+            C00055  CMP
+            C00063  CTP
+            C00064  L-Glutamine
+            C00075  UTP
+            C00086  Urea
+            C00099  beta-Alanine
+            C00105  UMP
+            C00106  Uracil
+            C00112  CDP
+            C00119  5-Phospho-alpha-D-ribose 1-diphosphate
+            C00169  Carbamoyl phosphate
+            C00178  Thymine
+            C00214  Thymidine
+            C00222  3-Oxopropanoate
+            C00239  dCMP
+            C00295  Orotate
+            C00299  Uridine
+            C00337  (S)-Dihydroorotate
+            C00363  dTDP
+            C00364  dTMP
+            C00365  dUMP
+            C00380  Cytosine
+            C00383  Malonate
+            C00429  5,6-Dihydrouracil
+            C00438  N-Carbamoyl-L-aspartate
+            C00458  dCTP
+            C00459  dTTP
+            C00460  dUTP
+            C00475  Cytidine
+            C00526  Deoxyuridine
+            C00672  2-Deoxy-D-ribose 1-phosphate
+            C00705  dCDP
+            C00813  Barbiturate
+            C00881  Deoxycytidine
+            C00941  3',5'-Cyclic CMP
+            C01013  3-Hydroxypropanoate
+            C01103  Orotidine 5'-phosphate
+            C01168  Pseudouridine 5'-phosphate
+            C01205  (R)-3-Amino-2-methylpropanoate
+            C01346  dUDP
+            C01368  3'-UMP
+            C01563  Carbamate
+            C02067  Pseudouridine
+            C02170  Methylmalonate
+            C02354  2',3'-Cyclic CMP
+            C02355  2',3'-Cyclic UMP
+            C02376  5-Methylcytosine
+            C02642  3-Ureidopropionate
+            C03997  5-Hydroxymethyldeoxycytidylate
+            C05281  5-Methylbarbiturate
+            C05822  3'-CMP
+            C06198  P1,P4-Bis(5'-uridyl) tetraphosphate
+            C11038  2'-Deoxy-5-hydroxymethylcytidine-5'-diphosphate
+            C11039  2'-Deoxy-5-hydroxymethylcytidine-5'-triphosphate
+            C15607  3-Oxo-3-ureidopropanoate
+            C20231  (Z)-3-Ureidoacrylate peracid
+            C20249  (Z)-3-Peroxyaminoacrylate
+            C20253  Aminoacrylate
+            C20254  Ureidoacrylate
+            C20846  3-Oxo-3-ureidoisobutyrate
+            C21028  (R)-5,6-Dihydrothymine
+            C21029  (R)-3-Ureidoisobutyrate
+            C22509  3',5'-Cyclic UMP
+REL_PATHWAY cfa00030  Pentose phosphate pathway
+            cfa00220  Arginine biosynthesis
+            cfa00250  Alanine, aspartate and glutamate metabolism
+            cfa00280  Valine, leucine and isoleucine degradation
+            cfa00410  beta-Alanine metabolism
+KO_PATHWAY  ko00240
+///

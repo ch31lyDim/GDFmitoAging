@@ -1,0 +1,119 @@
+type	id	name
+gene	100686107	NME7
+gene	100687720	CTPS1
+gene	100688937	ENTPD8
+gene	100855947	TK1
+gene	100856067	DPYS
+gene	100856150	ENPP1
+gene	100856179	NT5C1B
+gene	100856596	NME3
+gene	119865989	DTYMK
+gene	474746	NUDT2
+gene	474820	ENPP3
+gene	474984	NT5E
+gene	475022	AK9
+gene	475277	NT5C3A
+gene	476281	HDDC2
+gene	476638	NME6
+gene	476823	RRM1
+gene	477809	NT5C2
+gene	478593	UMPS
+gene	479935	DPYD
+gene	480384	ENTPD5
+gene	480558	NME1
+gene	480559	NME2
+gene	480772	UPP1
+gene	480851	CTPS2
+gene	481988	RRM2B
+gene	482188	DCK
+gene	482463	NT5C1A
+gene	482963	RRM2
+gene	483009	CAD
+gene	483309	NT5C
+gene	485564	ENTPD6
+gene	485604	ENTPD3
+gene	486117	ENTPD4
+gene	486398	UPB1
+gene	486810	ENTPD1
+gene	487393	CDA
+gene	489903	DCTPP1
+gene	490974	NT5C3B
+gene	607328	DCTD
+gene	607417	TYMS
+gene	608503	UCK1
+gene	608979	UCK2
+gene	608996	CMPK2
+gene	609318	ASMTL
+gene	609526	DUT
+gene	609545	NT5M
+gene	610291	CMPK1
+gene	610755	DHODH
+gene	611387	TK2
+gene	611514	NME4
+gene	612562	UCKL1
+compound	C00015	UDP
+compound	C00039	DNA
+compound	C00046	RNA
+compound	C00055	CMP
+compound	C00063	CTP
+compound	C00064	L-Glutamine
+compound	C00075	UTP
+compound	C00086	Urea
+compound	C00099	beta-Alanine
+compound	C00105	UMP
+compound	C00106	Uracil
+compound	C00112	CDP
+compound	C00119	5-Phospho-alpha-D-ribose 1-diphosphate
+compound	C00169	Carbamoyl phosphate
+compound	C00178	Thymine
+compound	C00214	Thymidine
+compound	C00222	3-Oxopropanoate
+compound	C00239	dCMP
+compound	C00295	Orotate
+compound	C00299	Uridine
+compound	C00337	(S)-Dihydroorotate
+compound	C00363	dTDP
+compound	C00364	dTMP
+compound	C00365	dUMP
+compound	C00380	Cytosine
+compound	C00383	Malonate
+compound	C00429	5,6-Dihydrouracil
+compound	C00438	N-Carbamoyl-L-aspartate
+compound	C00458	dCTP
+compound	C00459	dTTP
+compound	C00460	dUTP
+compound	C00475	Cytidine
+compound	C00526	Deoxyuridine
+compound	C00672	2-Deoxy-D-ribose 1-phosphate
+compound	C00705	dCDP
+compound	C00813	Barbiturate
+compound	C00881	Deoxycytidine
+compound	C00941	3',5'-Cyclic CMP
+compound	C01013	3-Hydroxypropanoate
+compound	C01103	Orotidine 5'-phosphate
+compound	C01168	Pseudouridine 5'-phosphate
+compound	C01205	(R)-3-Amino-2-methylpropanoate
+compound	C01346	dUDP
+compound	C01368	3'-UMP
+compound	C01563	Carbamate
+compound	C02067	Pseudouridine
+compound	C02170	Methylmalonate
+compound	C02354	2',3'-Cyclic CMP
+compound	C02355	2',3'-Cyclic UMP
+compound	C02376	5-Methylcytosine
+compound	C02642	3-Ureidopropionate
+compound	C03997	5-Hydroxymethyldeoxycytidylate
+compound	C05281	5-Methylbarbiturate
+compound	C05822	3'-CMP
+compound	C06198	P1,P4-Bis(5'-uridyl) tetraphosphate
+compound	C11038	2'-Deoxy-5-hydroxymethylcytidine-5'-diphosphate
+compound	C11039	2'-Deoxy-5-hydroxymethylcytidine-5'-triphosphate
+compound	C15607	3-Oxo-3-ureidopropanoate
+compound	C20231	(Z)-3-Ureidoacrylate peracid
+compound	C20249	(Z)-3-Peroxyaminoacrylate
+compound	C20253	Aminoacrylate
+compound	C20254	Ureidoacrylate
+compound	C20846	3-Oxo-3-ureidoisobutyrate
+compound	C21028	(R)-5,6-Dihydrothymine
+compound	C21029	(R)-3-Ureidoisobutyrate
+compound	C22509	3',5'-Cyclic UMP
